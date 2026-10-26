@@ -1,0 +1,6 @@
+﻿  pr4.1.cpp
+C:\Users\User\source\repos\pr4.1\pr4.1\pr4.1.cpp(16,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\pr4.1\pr4.1\pr4.1.cpp(26,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\pr4.1\pr4.1\pr4.1.cpp(34,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\pr4.1\pr4.1\pr4.1.cpp(42,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  pr4.1.vcxproj -> C:\Users\User\source\repos\pr4.1\x64\Debug\pr4.1.exe
